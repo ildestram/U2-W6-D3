@@ -1,0 +1,11 @@
+{
+
+  "scripts": {
+    "sass:new": "sass assets/scss/styles.scss assets/css/styles.css -w"
+  },
+
+
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
